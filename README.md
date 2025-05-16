@@ -34,7 +34,7 @@
 ## 5. Ảnh Demo
 
 ![page1](https://github.com/PhanDuy23/weather-forecast-JS/blob/main/public/page1.png) 
-![page2]((https://github.com/PhanDuy23/weather-forecast-JS/blob/main/public/page2.png)
+![page2](https://github.com/PhanDuy23/weather-forecast-JS/blob/main/public/page2.png)
 
 
 ## 6. Cách Cài Đặt Và Chạy Dự Án
