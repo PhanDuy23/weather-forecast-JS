@@ -33,9 +33,9 @@
 
 ## 5. Ảnh Demo
 
-![page1]()  
-![page2](![image](https://github.com/user-attachments/assets/f6b6af95-74b1-498c-ac77-4dbc6ac32fd3)
-)
+![page1](/weather/public/page1.png)  
+![page2](/weather/public/page2.png)
+
 
 ## 6. Cách Cài Đặt Và Chạy Dự Án
 
