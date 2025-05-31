@@ -1,4 +1,4 @@
-# DỰ ÁN NEXT.JS  
+# DỰ ÁN REACT.JS  
 ## 1. Thông Tin Tổng Quan
 
 **Tên Dự Án:** [WEATHER-FORECAST]
@@ -10,15 +10,14 @@
 ## 2. Giới Thiệu Dự Án
 
 **MÔ TẢ:**  
-**[WEATHER-FORECAST]** là một ứng dụng web được xây dựng với **Next.js**, cho phép người dùng tra cứu thông tin thời tiết hiện tại và dự báo thời tiết trong 4 ngày tới tại nhiều thành phố và quốc gia trên thế giới. Giao diện hiện đại, hỗ trợ tiếng Việt, và có khả năng hiển thị biểu tượng thời tiết trực quan.
+**[WEATHER-FORECAST]** là một ứng dụng web được xây dựng với **REACT.js**, cho phép người dùng tra cứu thông tin thời tiết hiện tại và dự báo thời tiết trong 4 ngày tới tại nhiều thành phố và quốc gia trên thế giới. Giao diện hiện đại, hỗ trợ tiếng Việt, và có khả năng hiển thị biểu tượng thời tiết trực quan.
 
 ## 3. Công Nghệ Sử Dụng
 
-- **Next.js:** Framework React mạnh mẽ để xây dựng ứng dụng web hiện đại.
 - **React:** Thư viện UI phổ biến giúp xây dựng giao diện tương tác.
 - **Tailwind CSS:** Framework CSS tiện lợi để tạo giao diện nhanh chóng, linh hoạt.
 - **OpenWeatherMap API:** Cung cấp dữ liệu thời tiết chính xác theo vị trí người dùng.
-- **Axios / Fetch API:** Dùng để gọi dữ liệu thời tiết từ API.
+- **Fetch API:** Dùng để gọi dữ liệu thời tiết từ API.
 
 ## 4. Dữ Liệu API Sử Dụng
 
